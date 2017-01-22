@@ -1,5 +1,5 @@
 {
-  "name": "hustle/scaffold",
+  "name": "hustleworks/scaffold",
   "description": "HustleWorks Laravel scaffold.",
   "keywords": ["laravel", "generators", "scaffold" , "laravel5"],
   "license": "MIT",
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Hustle\\Scaffold\\": "src/"
+      "HustleWorks\\Scaffold\\": "src/"
     }
   }
 }
